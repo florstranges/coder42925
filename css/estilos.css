@@ -521,7 +521,7 @@ Mediaqueries con MIN-WIDTH----
 
 .headerNosotros{
     grid-area: header;
-    background-color: yellow;
+    background-color: red;
 }
 
 .mainNosotros{
